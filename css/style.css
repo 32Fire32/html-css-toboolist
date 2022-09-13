@@ -36,6 +36,14 @@ header{
 
 /* regole bottoni */
 
+.bottoni{
+    max-width: 800px;
+    background-color: #fff;
+    margin:auto;
+    padding: 15px 50px 10px 50px;
+    border-bottom:3px solid #F6F8F9;
+}
+
 button{
     border-radius: 5px;
     padding:5px 10px;
